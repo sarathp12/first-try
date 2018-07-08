@@ -21,7 +21,7 @@
       <connection>scm:git:https://github.com/sarathp12/first-try.git</connection>
       <developerConnection>scm:git:https://github.com/jutzig/github-release-plugin.git</developerConnection>
       <tag>HEAD</tag>
-  /scm>
+  </scm>
 
   <dependencies>
     <dependency>
