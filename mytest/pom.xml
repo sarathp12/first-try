@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>mytest</artifactId>
-  <version>v1.5-SNAPSHOT</version>
+  <version>v1.3-SNAPSHOT</version>
 
   <name>mytest</name>
   <!-- FIXME change it to the project's website -->
@@ -18,8 +18,8 @@
   <scm>
       <url>https://github.com/sarathp12/first-try</url>
       <connection>scm:git:https://github.com/sarathp12/first-try.git</connection>
-      <developerConnection>scm:git:https://github.com/jutzig/github-release-plugin.git</developerConnection>
-      <tag>mytest-v1.5</tag>
+      <developerConnection>scm:git:https://github.com/sarathp12/first-try.git</developerConnection>
+      <tag>mytest-v1.3</tag>
   </scm>
 
   <dependencies>
